@@ -4,7 +4,7 @@
 * [Technology](#technology)
 
 ## General Information
-This project built a web page using Streamlit framework that providing functions for basic image detection, such as face regconition, object detection or hand detection
+This project built a web page using Streamlit framework that providing functions for basic image detection, such as face regconition, object detection or hand detection. it have referenced OpenCV document and source code
 
 ## Problem Solving
 ### 🧑‍🤝‍🧑 Module 2: Face Regconition
